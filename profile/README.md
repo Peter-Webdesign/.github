@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://www.jpsolutions.dev/branding/logo.webp" alt="JP Solutions Logo" width="130" height="130" />
+  <img src="https://www.peter-webdesign.de/branding/logo.webp" alt="JP Solutions Logo" width="130" height="130" />
 
-  <h1>Joey Peter - IT-Solutions</h1>
+  <h1>Joey Peter - Webdesign & Software</h1>
 
   <p><strong>Software &amp; Web Development</strong><br/>
   Personal. Uncomplicated. At fair prices.</p>
